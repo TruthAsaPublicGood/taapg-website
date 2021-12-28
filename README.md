@@ -1,2 +1,2 @@
-# bentobox-website
-bentobox toolkit website
+# Truth as a Public Good
+website
